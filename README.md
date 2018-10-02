@@ -1,0 +1,2 @@
+# hello-world
+tech pursuit
